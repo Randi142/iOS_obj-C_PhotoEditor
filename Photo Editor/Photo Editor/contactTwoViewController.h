@@ -1,0 +1,14 @@
+//
+//  contactTwoViewController.h
+//  Photo Editor
+//
+//  Created by Anson Tam on 13/7/2019.
+//  Copyright © 2019 Randi. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface contactTwoViewController : UIViewController
+@property (weak, nonatomic) IBOutlet UIWebView *webViewtwo;
+
+@end
